@@ -6,7 +6,7 @@ Sure, here's a README.md tailored for GitHub:
 
 Student Task Manager is a web application built with Express.js, MongoDB, HTML, CSS, and JavaScript. It helps students manage their tasks for different courses efficiently.
 
-![Student Task Manager Screenshot](screenshot.png)
+
 
 ## Features
 
